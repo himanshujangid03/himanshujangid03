@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshujangid03&label=Profile%20views&color=0e75b6&style=flat" alt="himanshujangid03" /> </p>
 
-- 🔭 I’m currently working on **ReactaPizza**
+- 🔭 I’m currently working on **Noteworthy**
 
 - 🌱 I’m currently learning **MERN stack**
 
